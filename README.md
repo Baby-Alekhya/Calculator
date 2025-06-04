@@ -1,7 +1,7 @@
-# Advanced Python Calculator
+# Python Calculator
 
 ## Introduction
-This is a console-based Python calculator application that allows users to perform both basic and advanced arithmetic operations. The user is prompted to select an operation and enter numbers, and the result is displayed instantly.
+This is a Python calculator application that allows users to perform both basic and advanced arithmetic operations. The user is prompted to select an operation and enter numbers, and the result is displayed instantly.
 
 
 ## Objective
